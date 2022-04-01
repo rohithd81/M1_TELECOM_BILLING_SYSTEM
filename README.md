@@ -12,3 +12,5 @@
 ![Codiga](https://api.codiga.io/project/32356/score/svg)
 ### Build on Windows
 [![Build CI - Windows](https://github.com/rohithd81/M1_TELECOM_BILLING_SYSTEM/actions/workflows/build_windows.yml/badge.svg)](https://github.com/rohithd81/M1_TELECOM_BILLING_SYSTEM/actions/workflows/build_windows.yml)
+### Valgrind
+[![Valgrind](https://github.com/rohithd81/M1_TELECOM_BILLING_SYSTEM/actions/workflows/valgrind.yml/badge.svg)](https://github.com/rohithd81/M1_TELECOM_BILLING_SYSTEM/actions/workflows/valgrind.yml)
