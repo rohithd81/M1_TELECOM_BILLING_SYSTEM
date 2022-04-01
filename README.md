@@ -9,4 +9,4 @@
 ### Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3b6b36c3fef40e8bcc3a08f488e12c2)](https://www.codacy.com/gh/rohithd81/M1_TELECOM_BILLING_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rohithd81/M1_TELECOM_BILLING_SYSTEM&amp;utm_campaign=Badge_Grade)
 ### Codiga
-![Codiga] (https://api.codiga.io/project/32356/score/svg)
+![Codiga](https://api.codiga.io/project/32356/score/svg)
